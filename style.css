@@ -310,8 +310,7 @@ video {
   display: flex;
   justify-content: space-around;
 }
-.card h1 {
-}
+
 .card {
   background-color: #fff;
   width: 350px;
