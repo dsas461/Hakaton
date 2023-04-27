@@ -245,7 +245,7 @@ video {
   z-index: -2;
 }
 #tour {
-  background: url(./images/fullg.png) no-repeat black;
+  background: url(./fullg.png) no-repeat black;
 }
 .tour__wrapper {
   width: 70%;
